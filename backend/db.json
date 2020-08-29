@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Chave de Ativação do WinRar",
+      "price": "0000.00"
+    },
+    {
+      "id": "55",
+      "name": "Acer Aspire 3",
+      "price": "2800.00"
+    },
+    {
+      "name": "Tramontina",
+      "price": "50.62",
+      "id": "sZn3Tz5"
+    },
+    {
+      "name": "MacBook Pro",
+      "price": "12000.00",
+      "id": "u9Xz3zG"
+    },
+    {
+      "name": "teste",
+      "price": "145",
+      "id": "bFuEILq"
+    },
+    {
+      "name": "teste2",
+      "price": "546",
+      "id": "k205K2j"
+    },
+    {
+      "name": "vendSeFunfa",
+      "price": "000.00",
+      "id": "dsQBMEw"
+    }
+  ]
+}
